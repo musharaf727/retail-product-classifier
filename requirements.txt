@@ -1,0 +1,17 @@
+# Core Machine Learning and Deep Learning
+tensorflow
+keras
+numpy
+pandas
+
+# Image Processing
+Pillow
+
+# Visualization and Analysis
+matplotlib
+seaborn
+scikit-learn
+
+# Deployment and Data Handling
+streamlit
+split-folders
